@@ -1,4 +1,4 @@
-id,name_equipment,type_equipment,spectral_resolution,number_of_channels,date_calibration,type_calibration,measurement_error,manufacturer
+EquipmentsID,name_equipment,type_equipment,spectral_resolution,number_of_channels,date_calibration,type_calibration,measurement_error,manufacturer
 1,HSE2,multispectral,6.520977537973571,206,2001-02-03,CROSS,0.5872288978321497,OPTEX
 2,HSE2,multispectral,16.896663598577405,124,2004-12-22,INTER,0.7452313569143426,NASA
 3,HSE2,multispectral,13.941030493812665,193,2011-11-05,POLIGON,0.5370772427216046,NASA
